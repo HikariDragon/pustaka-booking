@@ -36,7 +36,7 @@ method="post">
  <td>:</td>
  <td>
  <select name="sks" id="sks">
- <option value="">Pilih SKS</option>
+ <option value="">Pilih sks</option>
  <option value="2">2</option>
  <option value="3">3</option>
  <option value="4">4</option>
