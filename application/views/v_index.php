@@ -1,5 +1,7 @@
 <section>
  <h1><?php echo $judul ?></h1>
+ <link rel="stylesheet" type="text/css" href="<?php echo base_url() 
+?>assets/css/stylebuku.css">
  <p align=’justify’>Pada pengertian codeigniter di atas 
 tadi di jelaskan bahwa codeigniter menggunakan metode MVC. Apa itu MVC? Kita juga harus mengetahui apa itu MVC sebelum masuk dan lebih 
 jauh dalam belajar codeigniter.</p>
