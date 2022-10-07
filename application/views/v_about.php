@@ -8,7 +8,7 @@
  <br>
  <h4>Alamat</h4>
  <ul type="none">
- <li> Rejosari</li>
+ <li> Rejosari Surakarta</li>
  </ul>
  
  <h4>Tempat Lahir</h4>
