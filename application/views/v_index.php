@@ -32,7 +32,7 @@ melakukan pengembangan tampilan halaman website.</p>
 <p align=’justify’>Controller merupakan kumpulan intruksi aksi yang 
 menghubungkan model dan view, jadi user tidak akan berhubungan 
 dengan model secara langsung, intinya data yang tersimpan di
-database (model) di ambil oleh controller dan kemudian controller 
+database (model) di ambil oleh controller dan kemudian Controller 
 pula yang menampilkan nya ke view. Jadi controller lah yang mengolah 
 intruksi.</p>
 <p align=’justify’>Dari penjelasan tentang model view dan controller 
